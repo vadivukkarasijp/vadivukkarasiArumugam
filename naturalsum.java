@@ -2,6 +2,6 @@
 		  int a,sum=0;
 		  a=s.nextInt();
 		  for(int i=1;i<=a;i++){
-			  sum+=i;;
+			  sum+=i;
 		  }
 		  System.out.println(sum);
