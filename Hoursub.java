@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hour{
+public class Hoursub{
 	public static void main(String[]args){
 		Scanner sc=new Scanner(System.in);
 	    int hour1=sc.nextInt();
